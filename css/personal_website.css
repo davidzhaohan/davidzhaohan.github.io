@@ -181,6 +181,10 @@ header .intro-text .skills {
 section {
   padding: 100px 0;
 }
+section.info {
+  background: #3498db;
+  color: white;
+}
 section h2 {
   margin: 0;
   font-size: 3em;
